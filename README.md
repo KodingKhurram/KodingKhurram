@@ -42,7 +42,7 @@
   <a href="https://www.arduino.cc"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Arduino/arduino.png" alt="arduino" width="40" height="40"/>
   <a href="https://developer.android.com/studio/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Android/android.svg" alt="androidstudio" width="40" height="40"/>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/>
-  <a href="https://httpd.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/1200px-Apache_HTTP_server_logo_%282019-present%29.svg.png" alt="apache" width="40" height="40"/>
+  <a href="https://httpd.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/1200px-Apache_HTTP_server_logo_%282019-present%29.svg.png" alt="apache" height="40"/>
   <a href="https://www.postgresql.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Postgresql/postgresql.svg" alt="postgresql" width="40" height="40"/>
   <a href="https://ubuntu.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Ubuntu/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
   <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Windows/windows.svg" alt="windows" width="40" height="40"/>
