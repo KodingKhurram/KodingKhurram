@@ -14,7 +14,8 @@
  </p>
 
 
-### Back-end development
+<!--
+<h2>Back-end development</h2>
 
 <table>
   <tr>
@@ -26,6 +27,7 @@
     </td>
   </tr>
 </table>
+-->
 
 <h2>Skills</h2>
 
