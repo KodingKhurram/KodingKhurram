@@ -16,7 +16,6 @@
 
 <table>
   <tr>
-    <th align="center">Laravel</th>
     <th align="center">PHP</th>
   </tr>
   <tr>
