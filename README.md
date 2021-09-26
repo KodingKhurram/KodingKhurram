@@ -46,12 +46,13 @@
   <a href="https://www.docker.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
 </p>
 
-
+<!--
 <h2>Stats</h2>
 <p align="center">
 <a  href="https://github-readme-stats.vercel.app/api?username=KodingKhurram&count_private=true&show_icons=true&theme=radical"><img alt="KodingKhurram's Activity Graph" src="https://github-readme-stats.vercel.app/api?username=KodingKhurram&count_private=true&show_icons=true&theme=radical" /></a>
 
 </p>
+-->
 <!--
 
 <p align="center"> If you consider buying me a coffee/tea 🥺👉👈 </p>
