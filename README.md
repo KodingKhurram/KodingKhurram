@@ -14,7 +14,7 @@
  </p>
 
 
-<h2>Reach me :-</h2>
+<h2>Reach me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-khurram-667547198/">
