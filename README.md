@@ -5,7 +5,7 @@
 
 <h3>I just love to Learn, Analyze, and Apply.</h3>
 
-<p> 👨‍🎓 Currently Studying at <a href="https://pes.edu/"> PES university </a> </p>
+<p> 👨‍🎓 Currently Studying at <a href="https://pes.edu/" target="_blank"> PES university </a> </p>
 <p> ⚡ Crazy about gaming 🎮 </p>
 
 
