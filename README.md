@@ -14,6 +14,20 @@
  </p>
 
 
+<h2>Reach me :-</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-khurram-667547198/">
+    <img height="40" width="40" src="https://github.com/KodingKhurram/KodingKhurram/blob/main/icons/linkedin.png" alt="linkedin" />
+  </a>
+  <a href="https://instagram.com/khurram_the_k1ng">
+    <img height="40" width="40" src="https://github.com/KodingKhurram/KodingKhurram/blob/main/icons/instagram.png" alt="instagram" />
+  </a>
+  <a href="https://stackoverflow.com/users/15523591/mohammed-khurram">
+    <img height="40" width="40" src="https://github.com/KodingKhurram/KodingKhurram/blob/main/icons/stack-overflow.png" alt="stackoverflow" />
+  </a>
+</p>
+
 <!--
 <h2>Back-end development</h2>
 
