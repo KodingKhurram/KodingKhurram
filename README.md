@@ -26,7 +26,7 @@
   <a href="https://stackoverflow.com/users/15523591/mohammed-khurram">
     <img height="40" width="40" src="https://github.com/KodingKhurram/KodingKhurram/blob/main/icons/stack-overflow.png" alt="stackoverflow" />
   </a>
-  <a href="https:discord.com/users/732539891350503434">
+  <a href="https://discord.com/users/732539891350503434">
     <img height="40" width="40" src="https://github.com/KodingKhurram/KodingKhurram/blob/main/icons/discord.png" alt="discord" />
   </a>
 </p>
