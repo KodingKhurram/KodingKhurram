@@ -33,7 +33,7 @@
     <img height="40" width="40" src="https://github.com/KodingKhurram/KodingKhurram/blob/main/icons/steam.png" alt="discord" />
   </a>
 </p>
-Note:- I will not accept friend request if you haven't connected Github to your discord profile.
+<strong>Note:-</strong> I will not accept friend request if you haven't connected Github to your discord profile.
 
 <!--
 <h2>Back-end development</h2>
