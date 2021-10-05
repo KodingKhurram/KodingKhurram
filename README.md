@@ -50,7 +50,7 @@ Note:- I will not accept friend request if you haven't connected Github to your 
 </table>
 -->
 
-<h2>Skills</h2>
+<h2>Skills and Tools</h2>
 
 <p align="center">
   <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/>
