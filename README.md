@@ -54,6 +54,7 @@ Note:- I will not accept friend request if you haven't connected Github to your 
 
 <p align="center">
   <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/>
+  <a href="https://www.jquery.com/"><img src="https://jquery.com/jquery-wp-content/themes/jquery/images/logo-jquery.png" alt="jquery" height="40"/>
   <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="40" height="40"/>
   <a href="https://www.python.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Python/python.svg" alt="python" width="40" height="40"/>
   <a href="https://www.java.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Java/java.png" alt="java" width="40" height="40"/>
