@@ -77,36 +77,12 @@
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=KodingKhurram&count_private=true&show_icons=true&theme=radical">
     </p>
-    
-    
-<!--
-
-<h2>🔥 Streak Stats</h2>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=KodingKhurram&theme=dracula" alt="KodingKhurram" />
-</p>
-
-<h2>📊 Stats</h2>
-
-<p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KodingKhurram&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</p>
-
-
-<p align="center">
-<a  href="https://github-readme-stats.vercel.app/api?username=KodingKhurram&count_private=true&show_icons=true&theme=radical"><img alt="KodingKhurram Activity Graph" src="https://github-readme-stats.vercel.app/api?username=KodingKhurram&count_private=true&show_icons=true&theme=radical" /></a>
-
-</p>
-
-
-<h2>⭐ Badges</h2>
-
-<p align="center">
-  <a href="https://www.credly.com/org/certiprof/badge/scrum-foundation-professional-certificate.1"><img src="https://github.com/keikomori/icons-badges/blob/master/badges/scrum-foundation-professional-certificate.1.png"  width="100" height="100"/>
-  <a href="https://www.credly.com/earner/earned/badge/93bb1ef0-7d5d-4a0b-bd96-9b7b542c1677/"><img src="https://github.com/keikomori/icons-badges/blob/master/badges/cybersecurity-essentials.png" alt="grafana" width="100" height="100"/>
-  <a href="https://www.credly.com/badges/2a093b9f-925d-43d0-932f-ad1fca326901/public_url"><img src="https://github.com/keikomori/icons-badges/blob/master/badges/networking-academy-learn-a-thon-2021.1.png" alt="wordpress" width="100" height="100"/>
-</p> -->
+    <p align="center">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=KodingKhurram&theme=dracula" alt="KodingKhurram" />
+    </p>
+    <p align="center">
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KodingKhurram&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+    </p>
 
 <!--
 **KodingKhurram/KodingKhurram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
