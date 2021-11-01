@@ -72,6 +72,12 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
 </p>
 
+<h2>Stats</h2>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=KodingKhurram&count_private=true&show_icons=true&theme=radical">
+    </p>
+    
+    
 <!--
 
 <h2>🔥 Streak Stats</h2>
