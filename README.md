@@ -8,6 +8,7 @@
 <p> 👨‍🎓 Currently Studying at <a href="https://pes.edu/" target="_blank"> PES university </a> </p>
 <p> ⚡ Crazy about gaming 🎮 </p>
 
+<h2> Languages </h2>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KodingKhurram&theme=radical&langs_count=6&layout=compact"><img alt="KodingKhurram's Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KodingKhurram&theme=radical&langs_count=6&layout=compact" /></a>
