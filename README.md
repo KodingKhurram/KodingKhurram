@@ -15,7 +15,7 @@
  </p>
 
 
-<h2>Reach me</h2>
+<h2>Reach me <img src="https://komarev.com/ghpvc/?username=KodingKhurram&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-khurram-667547198/" target="_blank">
