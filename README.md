@@ -2,6 +2,9 @@
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231D44D4&size=22&vCenter=true&width=500&height=20&lines=Hey%2C+I+'am+Mohammed+Khurram.;Love+to+learn%2C+analyze%2C+and+apply.;Passionate+about+Software+Development.;Learning+full-stack+Development.;Feel+free+to+connect+with+me.;Nice+to+meet+you...!)](https://git.io/typing-svg)
+
 <h3>I just love to Learn, Analyze, and Apply.</h3>
 
 <p> 👨‍🎓 Currently Studying at <a href="https://pesitsouth.pes.edu/" target="_blank"> PES university </a> </p>
