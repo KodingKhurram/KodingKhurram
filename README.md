@@ -11,6 +11,11 @@
 <p> 👨‍🎓 Currently Studying at <a href="https://pesitsouth.pes.edu/" target="_blank"> PES university </a> </p>
 <p> ⚡ Crazy about gaming 🎮 </p>
 
+<!-- Spotify integration -->
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zmag74ab32pag6viktzzp7gac&cover_image=true&theme=default" height="350" width="300"></a>
+</p>
+
 <h2> Languages </h2>
 
 <p align="center">
