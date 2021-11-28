@@ -12,8 +12,12 @@
 <p> ⚡ Crazy about gaming 🎮 </p>
 
 <!-- Spotify integration -->
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zmag74ab32pag6viktzzp7gac&cover_image=true&theme=default" height="350" width="300"></a>
+</p>-->
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zmag74ab32pag6viktzzp7gac&cover_image=true&theme=novatorem&bar_color=4e5eb1&bar_color_cover=false"></a>
 </p>
 
 <h2> Languages </h2>
