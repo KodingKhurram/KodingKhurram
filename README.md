@@ -17,7 +17,7 @@
 </p>-->
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=zmag74ab32pag6viktzzp7gac&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zmag74ab32pag6viktzzp7gac&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=53b14f"></a>
+  <a href="https://open.spotify.com/user/zmag74ab32pag6viktzzp7gac"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zmag74ab32pag6viktzzp7gac&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=53b14f"></a>
 </p>
 
 <h2> Languages </h2>
