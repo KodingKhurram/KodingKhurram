@@ -17,7 +17,7 @@
 </p>-->
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zmag74ab32pag6viktzzp7gac&cover_image=true&theme=novatorem&bar_color=4e5eb1&bar_color_cover=false"></a>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=zmag74ab32pag6viktzzp7gac&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zmag74ab32pag6viktzzp7gac&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=53b14f"></a>
 </p>
 
 <h2> Languages </h2>
