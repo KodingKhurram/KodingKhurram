@@ -1,6 +1,6 @@
 <p align="center">
-  <!--<img src="https://kodingkhurram.github.io/testingHub.github.io/svgGenerator/myName.svg" width="100%">-->
-  <img src="https://kodingkhurram.github.io/testingHub.github.io/svgGenerator/flicker.svg" width="100%">
+  <!--<img src="./materials/svg/myName.svg" width="100%">-->
+  <img src="./materials/svg/flicker.svg" width="100%">
 </p>
 <h1 align="center">
   Welcome to my profile!
