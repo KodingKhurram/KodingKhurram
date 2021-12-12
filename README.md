@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://kodingkhurram.github.io/testingHub.github.io/svgGenerator/myName.svg" width="100%">
+</p>
 <h1 align="center">
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
