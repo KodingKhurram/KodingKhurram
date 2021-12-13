@@ -15,7 +15,8 @@ div {
   padding: 10px;
   background: black;
   margin: 0 auto;
-  min-width: 250px;
+  margin-top: 50px;
+  min-width: 220px;
 }
 
 .heading{
