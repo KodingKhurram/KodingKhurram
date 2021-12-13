@@ -10,7 +10,7 @@ div {
   border: 5px solid #FF00E6;
   height: auto;
   width: 70%;
-  border-radius: 20pxpx;
+  border-radius: 20px;
   animation: border-flicker 2s linear infinite;
   padding: 10px;
   background: black;
