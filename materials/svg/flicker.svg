@@ -6,14 +6,16 @@
     <style>
 
 div {
-  text-align:center;
-  border:5px solid #FF00E6;
+  text-align: center;
+  border: 5px solid #FF00E6;
   height: auto;
-  width:auto;
-  border-radius:20px;
+  width: 70%;
+  border-radius: 20pxpx;
   animation: border-flicker 2s linear infinite;
   padding: 10px;
   background: black;
+  margin: 0 auto;
+  min-width: 250px;
 }
 
 .heading{
