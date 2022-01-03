@@ -1,5 +1,4 @@
 <p align="center">
-  <!--<img src="./materials/svg/myName.svg" width="100%">-->
   <img src="./materials/svg/flicker.svg" width="100%">
 </p>
 <h1 align="center">
@@ -10,11 +9,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00c0f1&size=22&center=true&vCenter=true&width=480&lines=Hey%2C+I+'am+Mohammed+Khurram.;Love+to+learn%2C+analyze%2C+and+apply.;Passionate+about+Software+Development.;Learning+full-stack+Development.;Feel+free+to+connect+with+me.;Nice+to+meet+you...!">
 </p>
 
-<h3>I just love to Learn, Analyze, and Apply.</h3>
+<h3 align="center">I just love to Learn, Analyze, and Apply.</h3>
+<p align="center">
+  👨‍🎓 Currently Studying at <a href="https://pesitsouth.pes.edu/" target="_blank"> PES university </a><br>
+  ⚡ Crazy about gaming 🎮 
+</p>
 
-<p> 👨‍🎓 Currently Studying at <a href="https://pesitsouth.pes.edu/" target="_blank"> PES university </a> </p>
-<p> ⚡ Crazy about gaming 🎮 </p>
-
+<h2> Spotify </h2>
 <!-- Spotify integration -->
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zmag74ab32pag6viktzzp7gac&cover_image=false&theme=default&bar_color=0a18e6&bar_color_cover=false"></a>
