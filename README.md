@@ -19,7 +19,7 @@
 <h2> Spotify </h2>
 <!-- Spotify integration -->
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zmag74ab32pag6viktzzp7gac&cover_image=false&theme=default&bar_color=0a18e6&bar_color_cover=false"></a>
+  <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zmag74ab32pag6viktzzp7gac&cover_image=false&theme=default"></a>
 </p>
 
 <h2> Languages </h2>
