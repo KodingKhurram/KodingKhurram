@@ -25,7 +25,7 @@
 <h2> Languages </h2>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KodingKhurram&theme=radical&langs_count=6&layout=compact"><img alt="KodingKhurram's Activity Graph" src="https://my-readme-stats-jet.vercel.app/api/top-langs/?username=KodingKhurram&theme=radical&langs_count=6&layout=compact" /></a>
+  <a href="https://my-readme-stats-kodingkhurram.vercel.app/api/top-langs/?username=KodingKhurram&theme=radical&langs_count=6&layout=compact"><img alt="KodingKhurram's Activity Graph" src="https://my-readme-stats-jet.vercel.app/api/top-langs/?username=KodingKhurram&theme=radical&langs_count=6&layout=compact" /></a>
  </p>
 
 
@@ -89,7 +89,7 @@
 
 <h2>Stats</h2>
     <p align="center">
-      <img src="https://my-readme-stats-jet.vercel.app/api?username=KodingKhurram&count_private=true&show_icons=true&theme=radical">
+      <img src="https://my-readme-stats-kodingkhurram.vercel.app/api?username=KodingKhurram&count_private=true&show_icons=true&theme=radical">
     </p>
     <p align="center">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=KodingKhurram&theme=dracula" alt="KodingKhurram" />
