@@ -98,7 +98,7 @@
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KodingKhurram&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="250"/></a>
     </p>
     <p align="center">
-    <img src="./materials/svg/github-user-contribution.svg" width="100%">
+    <img src="https://github.com/KodingKhurram/KodingKhurram/blob/output/github-contribution-grid-snake.svg" width="100%">
     </p>
 
 <!--
