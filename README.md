@@ -13,7 +13,7 @@
 <h3 align="center">I just love to Learn, Analyze, and Apply.</h3>
 <p align="center">
   👨‍🎓 Currently Studying at <a href="https://pesitsouth.pes.edu/" target="_blank"> PES university </a><br>
-  ⚡ Crazy about gaming 🎮 
+  ⚡ Crazy about gaming 🎮
 </p>
 
 <h2> Spotify </h2>
@@ -96,6 +96,9 @@
     </p>
     <p align="center">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KodingKhurram&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="250"/></a>
+    </p>
+    <p align="center">
+    <img src="./materials/svg/github-user-contribution.svg" width="100%">
     </p>
 
 <!--
