@@ -32,20 +32,23 @@
 <h2>Reach me <img src="https://komarev.com/ghpvc/?username=KodingKhurram&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></h2>
 
 <p align="center">
+  <a href="mailto:KodingKhurram@gmail.com" target="_blank">
+    <img height="40" width="40" src="./materials/icons/email.png" alt="email" />
+  </a>
   <a href="https://www.linkedin.com/in/mohammed-khurram-667547198/" target="_blank">
-    <img height="40" width="40" src="https://github.com/KodingKhurram/KodingKhurram/blob/main/icons/linkedin.png" alt="linkedin" />
+    <img height="40" width="40" src="./materials/icons/linkedin.png" alt="linkedin" />
   </a>
   <a href="https://instagram.com/khurram_the_k1ng">
-    <img height="40" width="40" src="https://github.com/KodingKhurram/KodingKhurram/blob/main/icons/instagram.png" alt="instagram" />
+    <img height="40" width="40" src="./materials/icons/instagram.png" alt="instagram" />
   </a>
   <a href="https://stackoverflow.com/users/15523591/mohammed-khurram?tab=profile" target="_blank">
-    <img height="40" width="40" src="https://github.com/KodingKhurram/KodingKhurram/blob/main/icons/stack-overflow.png" alt="stackoverflow" />
+    <img height="40" width="40" src="./materials/icons/stack-overflow.png" alt="stackoverflow" />
   </a>
   <a href="https://discord.com/users/732539891350503434" target="_blank">
-    <img height="40" width="40" src="https://github.com/KodingKhurram/KodingKhurram/blob/main/icons/discord.png" alt="discord" />
+    <img height="40" width="40" src="./materials/icons/discord.png" alt="discord" />
   </a>
   <a href="https://steamcommunity.com/id/BlueBrawler" target="_blank">
-    <img height="40" width="40" src="https://github.com/KodingKhurram/KodingKhurram/blob/main/icons/steam.png" alt="discord" />
+    <img height="40" width="40" src="./materials/icons/steam.png" alt="steam" />
   </a>
 </p>
 <strong>Discord: -</strong> Khurram_the_k1ng#7007.<br/>
