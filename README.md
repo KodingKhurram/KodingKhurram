@@ -1,6 +1,6 @@
 <p align="center">
   <!--<img src="./materials/svg/flicker.svg" width="100%">-->
-  <img src="https://my-naam-svg.000webhostapp.com/?theme=flicker&text1=Mohammed%20&text2=K&text3=hurram&font=neonled&font-weight=bold&text-align=center&letter-spacing=4px&font-size=2.3rem" width="100%">
+  <img src="https://my-naam-svg.000webhostapp.com/?theme=flicker&text1=Mohammed%20&text2=K&text3=hurram&font=neonled&font-weight=bold&text-align=center&letter-spacing=4px&font-size=2.1rem" width="100%">
 </p>
 <h1 align="center">
   Welcome to my profile!
@@ -93,8 +93,8 @@
 
 <h2>Stats</h2>
     <p align="center">
-      <img src="https://my-readme-stats-kodingkhurram.vercel.app/api?username=KodingKhurram&count_private=true&show_icons=true&theme=radical"/>
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=KodingKhurram&theme=dracula" alt="KodingKhurram" />
+      <img src="https://my-readme-stats-kodingkhurram.vercel.app/api?username=KodingKhurram&count_private=true&show_icons=true&theme=radical" width="400"/>
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=KodingKhurram&theme=dracula" alt="KodingKhurram" width="400"/>
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KodingKhurram&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="250"/></a>
       <img src="https://github.com/KodingKhurram/KodingKhurram/blob/output/github-contribution-grid-snake.svg" width="100%">
     </p>
