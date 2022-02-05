@@ -2,10 +2,15 @@
   <!--<img src="./materials/svg/flicker.svg" width="100%">-->
   <img src="https://my-naam-svg.000webhostapp.com/?theme=flicker&text1=Mohammed%20&text2=K&text3=hurram&font=neonled&font-weight=bold&text-align=center&letter-spacing=4px&font-size=2.1rem" width="100%">
 </p>
-<h1 align="center">
+<!--<h1 align="center">
   Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+</h1>-->
+<p align="center">
+  <img src="https://my-naam-svg.000webhostapp.com/?theme=wave&text=Learning&font-weight=bold&font=verdena&text-align=center&width=140px&height=50px&font-size=2.1rem"/>
+  <img src="https://my-naam-svg.000webhostapp.com/?theme=wave&text=is&font-weight=bold&font=verdena&text-align=center&width=40px&height=50px&font-size=2.1rem&color=rgb(36%20174%2030)"/>
+  <img src="https://my-naam-svg.000webhostapp.com/?theme=wave&text=Love&font-weight=bold&font=verdena&text-align=center&width=80px&height=50px&font-size=2.1rem&color=rgb(226%2052%2052)"/>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00c0f1&size=22&center=true&vCenter=true&width=480&lines=Hey%2C+I+'am+Mohammed+Khurram.;Love+to+learn%2C+analyze%2C+and+apply.;Passionate+about+Software+Development.;Learning+full-stack+Development.;Feel+free+to+connect+with+me.;Nice+to+meet+you...!">
 </p>
