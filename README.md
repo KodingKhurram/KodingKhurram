@@ -52,6 +52,9 @@
   <a href="https://discord.com/users/732539891350503434" target="_blank">
     <img height="40" width="40" src="./materials/icons/discord.png" alt="discord" />
   </a>
+  <a href="https://twitter.com/DkingKhurram" target="_blank">
+    <img height="40" width="40" src="./materials/icons/twitter.png" alt="twitter" />
+  </a>
   <a href="https://steamcommunity.com/id/BlueBrawler" target="_blank">
     <img height="40" width="40" src="./materials/icons/steam.png" alt="steam" />
   </a>
