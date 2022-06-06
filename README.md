@@ -59,7 +59,7 @@
     <img height="40" width="40" src="./materials/icons/steam.png" alt="steam" />
   </a>
 </p>
-<strong>Discord: -</strong> Khurram_the_k1ng#7007.<br/>
+<strong>Discord: -</strong> Khurram_the_k1ng#6730.<br/>
 <strong>Note: -</strong> I will not accept friend request if you haven't connected Github to your discord profile.
 
 <!--
