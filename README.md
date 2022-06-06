@@ -55,6 +55,9 @@
   <a href="https://twitter.com/DkingKhurram" target="_blank">
     <img height="40" width="40" src="./materials/icons/twitter.png" alt="twitter" />
   </a>
+  <a href="https://open.spotify.com/user/zmag74ab32pag6viktzzp7gac" target="_blank">
+    <img height="40" width="40" src="./materials/icons/spotify.png" alt="spotify" />
+  </a>
   <a href="https://steamcommunity.com/id/BlueBrawler" target="_blank">
     <img height="40" width="40" src="./materials/icons/steam.png" alt="steam" />
   </a>
